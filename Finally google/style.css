@@ -16,8 +16,21 @@ div{
 .search-input{
     display: block;
     width:400px;
+    height:24px;
     margin-left: auto;
     margin-right: auto; 
+    border:1px solid #dfe1e5;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
 
+}
 
+.btn{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
 }
