@@ -1,6 +1,5 @@
-.nav-bar{
-    display:flexbox;
-    justify-content: center;
+.main{
+   
     margin-top: 100px;
 }
 
@@ -29,6 +28,10 @@
 
 }
 
+.btn-wrapper{
+     display:flexbox;
+    justify-content: center;
+}
 .btn{
 
     
