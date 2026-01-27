@@ -1,18 +1,19 @@
-body{
-    margin:20px;
-    
-}   
+   
 
 .avatar
 {
 width:150px;
 
+
 }
 
 
 .card{
-    border:1px dotted blue;
+    border:1px dotted black;
     padding: 20px;
     display:flex;
-    justify-content: center;
+}
+
+.italic{
+    font-style: oblique;
 }
