@@ -2,7 +2,7 @@
 
 .avatar
 {
-width:150px;
+width:200px;
 
 
 }
@@ -10,10 +10,9 @@ width:150px;
 
 .card{
     border:1px dotted black;
-    padding: 20px;
+    padding: 0px;
     display:flex;
 }
-
-.italic{
-    font-style: oblique;
+.border_black{
+    border:1px dotted black;
 }
