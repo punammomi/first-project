@@ -1,5 +1,6 @@
 body{
     margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
@@ -28,6 +29,7 @@ width:200px;
     border-left: #d8cefe;
     border-right: #d8cefe;
 }
+
 .border_black{
     border:1px  black;
 }
