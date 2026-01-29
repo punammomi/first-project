@@ -24,7 +24,7 @@ width:200px;
     background: #ddebf8;
     color: #2b2839;
     border-top: #d8cefe;
-    border-bottom:#d8cefe;
+    border-bottom:6px solid #d8cefe;
     border-left: #d8cefe;
     border-right: #d8cefe;
 }
