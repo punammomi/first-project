@@ -21,12 +21,12 @@ width:200px;
     display:flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
+    background: #CCC5B9;
     color: #2b2839;
-    border-top: #d8cefe;
-    border-bottom:6px solid #d8cefe;
-    border-left: #d8cefe;
-    border-right: #d8cefe;
+    border-top: #CCC5B9;
+    border-bottom:6px solid #252422;
+    border-left: #CCC5B9;
+    border-right: #CCC5B9;
 }
 
 .border_black{
