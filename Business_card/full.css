@@ -23,8 +23,10 @@ width:200px;
     text-align: center;
     background: #ddebf8;
     color: #2b2839;
+    border-top: #d8cefe;
     border-bottom:#d8cefe;
-
+    border-left: #d8cefe;
+    border-right: #d8cefe;
 }
 .border_black{
     border:1px  black;
