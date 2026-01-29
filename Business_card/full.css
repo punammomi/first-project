@@ -18,9 +18,10 @@ width:200px;
     display:flex;
     justify-content: space-around;
     text-align: center;
+    background-color: bisque;
 
 }
 .border_black{
-    border:1px dotted black;
+    border:1px  black;
 }
 
