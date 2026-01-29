@@ -6,6 +6,9 @@ body{
 .avatar
 {
 width:200px;
+
+
+
 }
 
 
@@ -18,7 +21,9 @@ width:200px;
     display:flex;
     justify-content: space-around;
     text-align: center;
-    background-color: bisque;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom:#d8cefe;
 
 }
 .border_black{
