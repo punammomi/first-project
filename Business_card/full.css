@@ -7,10 +7,6 @@ body{
 .avatar
 {
 width:200px;
-text-align: center;
-
-
-
 }
 
 
@@ -19,6 +15,7 @@ text-align: center;
     width: 500px;
     margin: 0px auto;
     display: flex;
+    text-align: center;
     padding: 20px;
     justify-content: space-around;
     background: #CCC5B9;
@@ -29,7 +26,5 @@ text-align: center;
     border-right: #CCC5B9;
 }
 
-.border_black{
-    border:1px  black;
-}
+
 
