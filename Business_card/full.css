@@ -14,16 +14,17 @@ width:200px;
     border:1px dotted black;
     width: 500px;
     margin: 0px auto;
-    display: flex;
-    text-align: center;
     padding: 20px;
+    display: flex;
     justify-content: space-around;
+    text-align: center;
     background: #CCC5B9;
     color: #2b2839;
     border-top: #CCC5B9;
     border-bottom:6px solid #252422;
     border-left: #CCC5B9;
     border-right: #CCC5B9;
+    border-radius: 30px;
 }
 
 
