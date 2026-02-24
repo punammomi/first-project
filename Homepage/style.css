@@ -1,0 +1,84 @@
+body{
+
+    width:1200px;
+    height: 1200px;
+    text-align: center;
+    margin: 0px auto;
+    color: black;
+
+}
+
+.header{
+    background: #2A2B26;
+    border-radius: 30px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px auto;
+}
+
+h1,h2{
+    background: #1d161777;
+    border-radius: 10px;
+    padding: 5px 30px;
+    }
+
+
+
+#main{
+    color:white;
+    background-image:url("Images/jpg.jpg") ;
+    height: 400px;
+    margin: 0px auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 5px 300px;
+}
+
+
+.product-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+} 
+
+
+
+.item{
+   
+    display: flex;
+    justify-content: space-around; 
+    border-bottom-left-radius: 50px;   
+    border-bottom-right-radius: 50px;
+}
+
+
+
+
+.container{
+    color:white;
+    margin-top: 1px;
+    background: #282624;
+    padding:0px 2px 30px 2px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.coach-img{
+    width: 200px;
+    height: 200px;
+}
+#coach{
+    width:600px;
+    height: 200px;
+    border:10px solid#735751;
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #2A2B26;
+    border-radius: 30px;
+    color:white;
+}
+    
+

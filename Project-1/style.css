@@ -1,0 +1,25 @@
+body{
+    background: white;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: black;
+}
+
+img{
+    width: 200px;
+    display: block;
+}
+
+p{
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+button{
+    background: white;
+    color: black;
+    border: 3px solid black;
+    padding:10px 20px;
+    border-radius: 10px;
+
+}
