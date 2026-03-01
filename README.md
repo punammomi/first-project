@@ -3,8 +3,8 @@
 This repository contains 22 small web development projects. Here uses HTML, CSS  and Javascript language. Each projects is arranged its own folder and displayed its front-end concepts.
 
 ## Project-list:
-1.About-me: Introduce HTML language. 
-In HTML file use:
+### 1.About-me: 
+Introduce HTML language. In HTML file use:
   - img tag
   - Heading 1, Heading 2
   - ul and li tag
@@ -12,8 +12,8 @@ In HTML file use:
   - input type using placeholder
   - button
 
-2.Business_card: Use HTML and CSS.
-In HTML:
+### 2.Business_card: 
+Use HTML and CSS. In HTML:
  - 2 div: One for image(add class) and other for whole code
  - img tag (add class)
  - Heading 3, Heading 4
@@ -24,3 +24,13 @@ In CSS: Style
  - avatar for image tag 
  - card 	 
 
+### 3.Calculator: 
+Use HTML, JS and CSS. In HTML:
+ - 6 div: One for whole and others are use for 5 rows
+ - input type using placeholder
+ - button for 5 rows
+
+ In JS: 
+  - getElementById use for input and buttons
+  - use array for buttons
+  - also use if-else conditions
