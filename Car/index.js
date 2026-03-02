@@ -29,6 +29,8 @@ labsCompleted=0
 loglabCompletedTime()
 loglabCompletedTime()
 loglabCompletedTime()
+loglabCompletedTime()
+
 
 console.log(labsCompleted)
 

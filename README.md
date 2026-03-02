@@ -34,3 +34,15 @@ Use HTML, JS and CSS. In HTML:
   - getElementById use for input and buttons
   - use array for buttons
   - also use if-else conditions
+
+### 4.Car:
+Use only HTML and JS. In HTML:
+  - just link the JS file
+
+ In JS: 
+  - new function and console for print  
+  - use function for addition
+  - use to see the string
+  - use both number and string
+  - see how to use concedanation
+  - 
