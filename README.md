@@ -63,3 +63,11 @@ In JS:
 
 In CSS:
  - style message, body, heading and card
+
+### 6. Cookies: 
+Just use HTML and CSS
+In HTML:
+ - just write one text
+
+In CSS: 
+ - style body using 
