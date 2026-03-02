@@ -45,4 +45,21 @@ Use only HTML and JS. In HTML:
   - use to see the string
   - use both number and string
   - see how to use concedanation
-  - 
+  
+### 5.Card Game:
+Use both HTML, JS and CSS file
+In HTML:
+ - link to css
+ - use headind 1, paragraph tag and button
+ - use id for paragraph tag and button. It is use in JS file
+
+In JS: 
+ - Variable: array, sum(set 0), empty message
+ - use document.getElementById and .textcontent global object
+ - use function for King, Queen, Jack(K=Q=J=10) and Ace(A=11). Also use MAth.floor and MAth.random
+ - use function for sum the card(use predeclare card and set their value form Math.floor and MAth.random)
+ - set for loop to check player are in game or game over
+ - add newcard for newplay (use if-else condition)
+
+In CSS:
+ - style message, body, heading and card
