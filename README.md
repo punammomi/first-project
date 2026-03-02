@@ -64,10 +64,29 @@ In JS:
 In CSS:
  - style message, body, heading and card
 
-### 6. Cookies: 
+### 6.Cookies: 
 Just use HTML and CSS
 In HTML:
  - just write one text
 
 In CSS: 
  - style body using 
+
+ ### 7.Cricket-Score-Board:
+ Use HTML, JS and CSS
+
+ In HTML: 
+  - use id in div which is use for whole 
+  - use individual div for four button
+  - use button to increase the score, wicket, over and target
+
+In JS:
+ - Use document for score, wicket, over and target 
+ - for score: use +1 and textContent
+ - for wicket: use if condition (inside loop use ++ and textContent)
+ - for over: use +1 and textContent
+ - for target: use +1 and textContent
+
+In CSS:
+ - style body(bg color, text-align), header(display,justify-content), score, wicket, over and target using width, height and bg color
+ 
