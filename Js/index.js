@@ -9,3 +9,14 @@ console.log(parseFloat(x) + y)
 
 const cond = 3 < 3 ? "Okay" : "No"
 console.log(cond)
+
+const value = 3
+
+switch(value){
+    case 3 : 
+      console.log("WOW")
+      break
+    case 4: 
+      console.log("ITS okay")
+      break
+}
