@@ -28,3 +28,4 @@ console.log(arr)
 const arr3 = Array.from("Hiiiiiiiiii")
 console.log(arr3)
 
+console.log(arr3.indexOf("i"))
