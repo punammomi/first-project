@@ -53,3 +53,21 @@ const a1 = [1,2,3,4]
 for (let [i,value] of a1.entries()){
     console.log(i,value)
 }
+
+const obj = {
+    name : "Pu",
+    age : 23,
+    sayHello: function(){
+        return "hello"
+    }, 
+    career : {}
+}
+
+const obj2 = {
+    haircolor : "black",
+    ar1 : [1,88],
+
+}
+
+const obj3 = {...obj, ...obj2}
+console.log(obj3)
