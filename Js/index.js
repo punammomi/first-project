@@ -44,7 +44,7 @@ do{
 
 while(true)
 
-while(true){
+while(false){
     console.log("hello")
     break
 }
