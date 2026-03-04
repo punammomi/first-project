@@ -29,3 +29,7 @@ const arr3 = Array.from("Hiiiiiiiiii")
 console.log(arr3)
 
 console.log(arr3.indexOf("i"))
+console.log(arr2.lastIndexOf("l"))
+
+const arr4 = arr.concat(arr3)
+console.log(arr4)
