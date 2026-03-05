@@ -150,3 +150,12 @@ myPromise.then((value) =>
 .catch((value) =>{
     console.log(value)
 })
+
+
+
+let variable = 10 
+console.log("The value of variable is:",variable, "and the type is: ", typeof variable)
+
+variable = "Hello World"
+console.log("The value of variable is:", variable, "and the type is:", typeof variable)
+
