@@ -118,3 +118,7 @@ console.log(names)
 const number2 = [4,5,6,8]
 const sum = number2.reduce((acc,num) => acc + num, 0)
 console.log(sum)
+
+const number3 = [4,5,6,9]
+const evenNumber = number3.filter((num) => num % 2 === 0 )
+console.log(evenNumber)
