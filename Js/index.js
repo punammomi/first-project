@@ -106,3 +106,11 @@ catch(error){
 const numbers = [1, 3, 6, 88]
 const doubled = numbers.map((num) =>num *2)
 console.log(doubled) 
+
+const users = [
+    {name : "Punam", age : 108},
+    {name : "Mima", age : 302}
+]
+
+const names = users.map((user) => user.age)
+console.log(names)
